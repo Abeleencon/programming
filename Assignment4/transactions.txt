@@ -1,0 +1,24 @@
+Deposit
+2000
+January Rent
+700
+Groceries
+212.50
+Utilities (Gas/Electric)
+90
+Vehicle Gas
+35
+Cellphone
+50.75
+Deposit
+2000
+February Rent
+700
+Groceries
+160.50
+Utilities (Gas/Electric)
+90
+Vehicle Gas
+35
+Cellphone
+50.75

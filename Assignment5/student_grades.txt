@@ -1,0 +1,10 @@
+Anne Smith: 40, 35, 47, 80
+Bill Andrews:  35, 48, 40, 72
+Cathy Simpson: 26,35,30,60
+Don Williams: 49,50,48,90
+Samson Ogunleye: 48,50,49,93
+Tom Arnold: 45,40,38,97
+Tony Walton: 25,40,37,64 
+William Oseghale: 48,48,49,95
+Xavier Bonton: 37,39,43,85
+Zino Talavi: 43,40,36,92
